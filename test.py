@@ -1,1 +1,1 @@
-print("AAAA")
+print("AAAAAAABBBBB")
